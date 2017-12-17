@@ -1,5 +1,4 @@
-Two consecutive MapReduce jobs are used for solving the task (mapper.py
-+ reducer.py and mapper2.py + reducer2.py).
+Two consecutive MapReduce jobs are used for solving the task (mapper.py + reducer.py and mapper2.py + reducer2.py).
 
 Local run:
 
