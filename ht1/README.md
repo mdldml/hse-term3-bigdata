@@ -1,3 +1,6 @@
+Two consecutive MapReduce jobs are used for solving the task (mapper.py
++ reducer.py and mapper2.py + reducer2.py).
+
 Local run:
 
     cat star2002-sample.csv | python mapper.py | sort -k 1,1 | python reducer.py > quantiles.txt
